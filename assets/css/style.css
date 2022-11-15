@@ -23,6 +23,10 @@ figure {
     margin: 0 !important;
 }
 
+figcaption .card-title {
+    height: 22px;
+}
+
 .backdrop {
     width: 100%;
     height: 100vh;
